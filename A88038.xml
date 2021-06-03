@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to the admired fraternity of the Order of R.C.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88038</idno><idno type="EEBO-CITATION">99868391</idno>
+  <idno type="VID">170003</idno>
+  <idno type="EEBO-PROQUEST">2240958809</idno>
+  
+            <idno type="STC">Wing L1723</idno>
+            <idno type="STC">Thomason E1474_4</idno>
+            <idno type="STC">ESTC R209515</idno>
+            <idno type="PROQUEST">99868391</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99868391e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88038)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170003)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 189:E1474[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to the admired fraternity of the Order of R.C.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C. for William Ley in Paul's Chain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "may 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Rosicrucians --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170003:1"/>
+            <p>A LETTER To the Admired Fraternity Of the ORDER OF R. C.</p>
+            <figure>
+               <figDesc>pastoral scene</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. C.</hi> for <hi>William Ley</hi> in <hi>Paul</hi>'s Chain. 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:170003:2"/>
+            <pb n="1" facs="tcp:170003:2"/>
+            <head>To the highly illuminated men of God, <hi>The Fraternity of</hi> R. C. S. T. <hi>S. D.</hi>
+            </head>
+            <p>IT doth not seem impossible to me, that my sincere presentment should finde access unto your selves (for other Title (I think) you covet not;) although (perhaps) some things have pass'd my thoughts, which have in many bred a full dissent<g ref="char:EOLhyphen"/>ment. It is some time since first I undertook this re<g ref="char:EOLhyphen"/>solution; and in this time, I have endured many dis<g ref="char:EOLhyphen"/>swasions in my self. It may be at the first, my faith did not extend thus far: or, if I did believe you true, and highly honourable; I did, as well, believe, that your Petitioners were tumultuary; and that men of greater acquaintance, and parts more valuable, would step in, before me; and I should be but like the lame man at the troubled waters side: for I did conclude, if all who (upon sight of your <hi>Fama,</hi> and <hi>Confessio</hi>) must (of necessity) be ravish'd with the hopes of so vast a Benefit, (and consequently, enfla<g ref="char:EOLhyphen"/>med with a desire of satisfaction) were answered, that then, either some of my acquaintance; or some, that my acquaintance either knew, or heard of, might (probably) be in that number. Disputes of this kinde, did a good while stagger me; and (it may
+<pb n="2" facs="tcp:170003:3"/>be) have, at this time, the same influence upon many others. But your own Answer to your own Obje<g ref="char:EOLhyphen"/>ction in your <hi>Confessio,</hi> doth most aptly resolve mine here: for (say you,) <hi>Although we freely offer our selves to all Europe, and not to Princes onely, and men of power; yet we partly very well know that none but men of like affections can or will accept our invitation.</hi> And notwithstanding I could finde but small encouragement within my self, to expect so great an happiness; yet I considered, how the Al<g ref="char:EOLhyphen"/>mighty God tenders himself to all, and that none are excluded, but by their own incapacity; which Rule (I do believe) you imitate: Nor am I without con<g ref="char:EOLhyphen"/>firmation (to this purpose) from your selves: for (I remember) you promise, that none shall fail either to speak with you by word of mouth; or if any thing hinders, in writing: by this (although I have not the oportunity of joyning with the Learned in <hi>Europe,</hi> when they shall write unto you (joyntly) as you have desired them) I am emboldened to hope for such a return, as to your wisdoms shall seem most fitting and convenient. There are few (I think) that with more earnestness desire to be within your disposition &amp; pro<g ref="char:EOLhyphen"/>tection, then my self; although I do believe, that ma<g ref="char:EOLhyphen"/>ny in <hi>Europe</hi> have greater reason: for I attribute it not to any knowledge I have of your Mysteries; (and yet I do believe some very great Truths are generally held Impossibilities) but rather, to the coherency be<g ref="char:EOLhyphen"/>twixt my own Propositions, and what you have de<g ref="char:EOLhyphen"/>clared: for (I do confess) (before I had intelligence
+<pb n="3" facs="tcp:170003:3"/>of your Fraternity, which is now my greatest joy) I did intend a search into the Eastern Countries, for better helps, then (what I understood) were to be found in <hi>Europe.</hi>
+            </p>
+            <p>Now (happiest men, whom I most love, and most admire) reject not him, whose application is ingenu<g ref="char:EOLhyphen"/>ously free from any sinister respect: for (I thank my God) my love to your honoured Fraternity (which is almost impatient of delays) is not excited by any ap<g ref="char:EOLhyphen"/>prehension I have of an advantage by your abundant treasures; not like the hypocritick multitude, that followed Christ our Saviour, because he gave them victuals; but for causes truely-honourable, such as I hope will be acceptable unto your perfect understan<g ref="char:EOLhyphen"/>dings. For my part, I am so far from loving sum<g ref="char:EOLhyphen"/>ptuous Buildings, that I count it more slavery, to be tyed to the management of their appurtenances: and what you promise to the meanest of your accepted suppliants, I do prefer to Kingdoms: for what need hath man of more, (if he were not ambitious) then a certain assurance of no want? He that is diligent in search of his diseases, will finde his covetous desires principal: nor is there any thing that more unmans us, then want of Liberty, (for that's our due and proper claim, above the other creatures) and yet we can be so irrational, to love our main impediment.</p>
+            <p>My reasons why I have addressed my self unto you, are grounded on a stedfast <hi>Crede</hi> I have, that God hath treasurers on earth, who shall repair mans losses. For, as your honoured Father, and Founder
+<pb n="4" facs="tcp:170003:4"/>of your Fraternity, when he died, left not his succes<g ref="char:EOLhyphen"/>sors without provision against all mischances, and so well furnished his own Sepulchre, that, although they had been utterly dispersed and dissipated, they might (by that <hi>Compendium</hi> alone) have amply been re<g ref="char:EOLhyphen"/>paired: so God himself, when he did drown the world, forgot not to provide for mankindes restau<g ref="char:EOLhyphen"/>ration: nor will be (I am sure) leave us (whom he once formed after his own image) thus overwhelmed in ignorance; for that is it alone which separates be<g ref="char:EOLhyphen"/>twixt him and us. What God doth, is by means: and (for ought I know) your Reverend Father (whose Memory I honour) was as immediately chosen for the vindication of man's better part, as <hi>Noah</hi> for the maintenance of seed. The world (I know) when they shall see my name subscribed, will count me over-credulous; wherefore I once did think to have omitted that: but I have since taken more cou<g ref="char:EOLhyphen"/>rage, and am resolved the contrary, however they re<g ref="char:EOLhyphen"/>sent it: 'T is not my business to please them but you; my hope is your admittance: nor shall I neglect any thing that tends to the procurement, because they may not like it. I must confess, I was at first much dis-encouraged, because I ne'er had known a presi<g ref="char:EOLhyphen"/>dent of this: but that not long possessed me; for on maturer thoughts, I rather imputed it to mans negli<g ref="char:EOLhyphen"/>gence in self-examination, then to a no-want of such advantages as you have well propounded. When I did read some of your Propositions, I found my spi<g ref="char:EOLhyphen"/>rit respond to a Magnetick touch; to finde a promise
+<pb n="5" facs="tcp:170003:4"/>of resolution to my own doubts, (wherein I had so much been gravelled) seemed as it had been writ par<g ref="char:EOLhyphen"/>ticularly to me. To know Man, was my highest thoughts: but when I did begin to study it, I found such inability in my self, as was not suitable to so profound a labour. I do not pretend to deter<g ref="char:EOLhyphen"/>mine of your benefits, (if I am so fortunate, as to win your approbation:) for I believe them greater, then my present imagination: my endeavour is to state how much I have discovered of my necessity of your assistance: and I am glad that I (in part) have known my wants: for, to understand a disease, is the first Rule in Cures. The ignorance of my own e<g ref="char:EOLhyphen"/>state ne'er troubled me, until I did believe, that through my self did lie the way unto the sacred My<g ref="char:EOLhyphen"/>stery of my Saviour's passion: when I remember that he, who (himself) was entirely righteous, suf<g ref="char:EOLhyphen"/>fered the penalty of mans transgressions, (methinks) some Questions necessarily interpose, which I would fain resolve. I do (sometimes) begin to contem<g ref="char:EOLhyphen"/>plate on the relation 'twixt Man and his Redeemer; and would by that means deduce reasons, how, and why 't is said, <hi>He that sanctifies, and those that are sanctified, are all of one:</hi> But here I stop; and can arrive at nothing more then a meer glimmering of what (I do believe) your perfectly discern.</p>
+            <p>Should you give me that freedom which the wise <hi>Iarchas</hi> was said to give the Grecian <hi>Apollonius,</hi> (when he was admitted to converse with the Arabian Philosophers, &amp; had it granted to him to ask what<g ref="char:EOLhyphen"/>soever
+<pb n="6" facs="tcp:170003:5"/>he pleased, and he should be satisfied in it) I should not (as he did) pick out unnecessary Questi<g ref="char:EOLhyphen"/>ons, which do conduce more unto our School-disputes, then to the true advancement of his know<g ref="char:EOLhyphen"/>ledge: not ask you whether the earth of sea do ex<g ref="char:EOLhyphen"/>ceed in quantity; but intreat your instructions in that true Philosophy, which doth declare and manifest man; and teaches why he is called <hi>Microcosm;</hi> be<g ref="char:EOLhyphen"/>lieving him to be the Compend and Model of the worlds great bulk. I might insist on more of your own reasons: but as I do desire (sincerely from my heart) to be like you in all things; so I shall likewise imitate you in brevity, (which you, your selves ob<g ref="char:EOLhyphen"/>serve;) concluding, (with what I most love to remem<g ref="char:EOLhyphen"/>ber) that <hi>the time shall come, when honour shall be given to the tongue.</hi> For I have not passed over that Comparison betwixt the <hi>Tongue</hi> and a <hi>Ships Rudder,</hi> without some meditation. It now rests, that I subscribe my name. My yeers have not been many; nor is it long, since I have been within the customary number of yeers, whereat we do receive the Sacrament: through the unsetledness of times, and mens opinions, I never yet received it; and now, I do intend to wait, till providence &amp; your pleasures shall admit me to communicate with you; and I pray God, that that time may not be delayed: and that I may be as dear in your loves, as he, who bore the name which I inherit, was in his fathers, (S. <hi>Paul</hi>) which being construed with what my Godfathers gave me makes up</p>
+            <closer>
+               <dateline>
+                  <date>April 26. 1655.</date>
+               </dateline>
+               <signed>Corona Honorata.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
